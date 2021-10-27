@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/bdjdndn">
-        <img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github">
+        <img src="https://img.shields.io/badge/Email-Gmail-brightgreen" alt="Gmail">
     </a>
     <a href="https://codecov.io/github/vuejs/vue?branch=dev">
         <img src="https://img.shields.io/cocoapods/p/AFNetworking" alt="Coverage Status">
