@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github">
     </a>
     <a href="https://codecov.io/github/vuejs/vue?branch=dev">
-        <img src="https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg" alt="Coverage Status">
+        <img src="https://img.shields.io/cocoapods/p/AFNetworking" alt="Coverage Status">
     </a>
     <a href="https://www.npmjs.com/package/vue">
         <img src="https://img.shields.io/npm/dm/vue.svg" alt="Downloads">
