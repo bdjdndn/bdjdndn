@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bdjdndn&show_icons=true&include_all_commits=true)](https://github.com/bdjdndn/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdjdndn&layout=compact)](https://github.com/bdjdndn/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdjdndn&repo=YourRepositoryName)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdjdndn&repo=bdjdndn)
