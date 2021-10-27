@@ -1,7 +1,25 @@
-### Hi there 👋
+## Hey 👋, This is Ruan
+
+[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=bdjdndn alt=bdjdndn /> </p>
+
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bdjdndn=bdjdndn" />
+</a>
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdjdndn=bdjdndn" />
+</a>
+
+Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+
 
 <!--
-**bdjdndn/bdjdndn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,13 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdjdndn&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bdjdndn&show)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdjdndn&layout=compact)](https://github.com/bdjdndn/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdjdndn&repo=bdjdndn)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bdjdndn&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bdjdndn&repo=convoychat" />
-</a>
